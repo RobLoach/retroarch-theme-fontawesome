@@ -2,6 +2,8 @@
 
 [RetroArch](https://www.libretro.com/index.php/retroarch-2/) custom theme that incorporates [Font-Awesome](http://fontawesome.io/) icons into Monochrome.
 
+![Screenshot](src/screenshot.png)
+
 ## Install
 
 1. [Download the theme](https://github.com/RobLoach/retroarch-theme-fontawesome/archive/master.zip)
