@@ -38,10 +38,9 @@ retroarch: home
 run: play
 savestate: download
 screenshot: camera
-#setting: cog
-setting: chevron-right
+setting: cog
 settings: cogs
-subsetting: angle-right
+subsetting: wrench
 undo: undo
 wifi: wifi
 zip: file-archive-o
