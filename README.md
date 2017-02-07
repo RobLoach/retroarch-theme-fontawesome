@@ -1,3 +1,7 @@
+# Deprecated
+
+Visit Material Design theme over at https://github.com/RobLoach/retroarch-theme-materialdesign
+
 # Font-Awesome RetroArch Theme
 
 [RetroArch](https://www.libretro.com/index.php/retroarch-2/) custom theme that incorporates [Font-Awesome](http://fontawesome.io/) icons into Monochrome.
